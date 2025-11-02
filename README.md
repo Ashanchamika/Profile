@@ -10,8 +10,10 @@
  <picture> <img align="right" src="https://camo.githubusercontent.com/2366b34bb903c09617990fb5fff4622f3e941349e846ddb7e73df872a9d21233/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" width = 400px></picture>
   <p align="left">
    <img src="https://img.shields.io/badge/Focus-Backend%20 / FrontEnd%20Development-dodgerblue" />
-   <img src="https://img.shields.io/badge/Languages-JAVA%20/C#%20/CSS%20/Python%20/JAVASCRIPT%20-lightblue" />
- </p>
+   <p>
+  <img src="https://img.shields.io/badge/Languages-JAVA%20%2F%20C%23%20%2F%20CSS%20%2F%20Python%20%2F%20JAVASCRIPT-lightblue" alt="Languages Badge" />
+</p>
+
  
  - 🔭 I’m currently working on my Sample projects
  - 🌱 I’m currently learning Information Technology in Science
